@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927571388679",
+    "firebase_url": "https://feed-the-needy-orphanage-default-rtdb.firebaseio.com",
+    "project_id": "feed-the-needy-orphanage",
+    "storage_bucket": "feed-the-needy-orphanage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927571388679:android:ffa81a2d5595ce809f3da2",
+        "android_client_info": {
+          "package_name": "com.palsproject.feedtheneedyorphanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927571388679-vcgr8t7hur7ua4po2bee1560j4fr0ak8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palsproject.feedtheneedyorphanage",
+            "certificate_hash": "c21fe582f889f29dc97fceb63cf1c2348f617a8a"
+          }
+        },
+        {
+          "client_id": "927571388679-d33e8msgik58jq8r9v7mseaj4g6k861o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rqMTtZMqN-euHtwnB4WfSp_e6Cijm9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927571388679-d33e8msgik58jq8r9v7mseaj4g6k861o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
